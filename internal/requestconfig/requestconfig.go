@@ -300,7 +300,7 @@ func retryDelay(res *http.Response, retryCount int) time.Duration {
 }
 
 func (cfg *RequestConfig) Execute() (err error) {
-	cfg.Request.URL = cfg.BaseURL
+	cfg.Request.URL, err = cfg.BaseURL.Parse(strings.TrimLeft(cfg.Request.URL.String(), "/"))
 	if err != nil {
 		return err
 	}
