@@ -1,5 +1,7 @@
 module github.com/OptimusePrime/openai-go
 
+replace github.com/openai/openai-go => github.com/OptimusePrime/openai-go
+
 go 1.21
 
 require (
