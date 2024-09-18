@@ -11,7 +11,7 @@ import (
 	"github.com/OptimusePrime/openai-go/internal/apijson"
 	"github.com/OptimusePrime/openai-go/internal/pagination"
 	"github.com/OptimusePrime/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
+	"github.com/OptimusePrime/openai-go/option"
 )
 
 // ModelService contains methods and other services that help with interacting with

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/openai/openai-go"
+	"github.com/OptimusePrime/openai-go"
 	"github.com/OptimusePrime/openai-go/internal/apijson"
 )
 

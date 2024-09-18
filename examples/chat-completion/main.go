@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	"github.com/openai/openai-go"
+	"github.com/OptimusePrime/openai-go"
 )
 
 func main() {

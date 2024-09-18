@@ -15,8 +15,8 @@ import (
 	"github.com/OptimusePrime/openai-go/internal/pagination"
 	"github.com/OptimusePrime/openai-go/internal/param"
 	"github.com/OptimusePrime/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/shared"
+	"github.com/OptimusePrime/openai-go/option"
+	"github.com/OptimusePrime/openai-go/shared"
 	"github.com/tidwall/gjson"
 )
 

@@ -24,4 +24,4 @@ require (
 	golang.org/x/text v0.16.0 // indirect
 )
 
-replace github.com/openai/openai-go => github.com/OptimusePrime/openai-go v0.0.0-20240918194140-41cf458b1c58
+replace github.com/openai/openai-go => github.com/OptimusePrime/openai-go v0.0.0-20240918194352-312d05f3885a

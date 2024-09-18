@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/OptimusePrime/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
+	"github.com/OptimusePrime/openai-go/option"
 )
 
 // Client creates a struct with services and top level methods that help with

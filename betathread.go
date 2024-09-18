@@ -12,9 +12,9 @@ import (
 	"github.com/OptimusePrime/openai-go/internal/apijson"
 	"github.com/OptimusePrime/openai-go/internal/param"
 	"github.com/OptimusePrime/openai-go/internal/requestconfig"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/packages/ssestream"
-	"github.com/openai/openai-go/shared"
+	"github.com/OptimusePrime/openai-go/option"
+	"github.com/OptimusePrime/openai-go/packages/ssestream"
+	"github.com/OptimusePrime/openai-go/shared"
 	"github.com/tidwall/gjson"
 )
 

@@ -9,10 +9,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/openai/openai-go"
+	"github.com/OptimusePrime/openai-go"
 	"github.com/OptimusePrime/openai-go/internal/testutil"
-	"github.com/openai/openai-go/option"
-	"github.com/openai/openai-go/shared"
+	"github.com/OptimusePrime/openai-go/option"
+	"github.com/OptimusePrime/openai-go/shared"
 )
 
 // Mock function to simulate weather data retrieval

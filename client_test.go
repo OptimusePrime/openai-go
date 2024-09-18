@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/openai/openai-go"
+	"github.com/OptimusePrime/openai-go"
 	"github.com/OptimusePrime/openai-go/internal"
-	"github.com/openai/openai-go/option"
+	"github.com/OptimusePrime/openai-go/option"
 )
 
 type closureTransport struct {
