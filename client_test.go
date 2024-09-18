@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/internal"
+	"github.com/OptimusePrime/openai-go/internal"
 	"github.com/openai/openai-go/option"
 )
 

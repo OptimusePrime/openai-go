@@ -3,7 +3,7 @@
 package openai
 
 import (
-	"github.com/openai/openai-go/internal/apierror"
+	"github.com/OptimusePrime/openai-go/internal/apierror"
 	"github.com/openai/openai-go/shared"
 )
 

@@ -1,7 +1,7 @@
 package openai
 
 import (
-	"github.com/openai/openai-go/internal/param"
+	"github.com/OptimusePrime/openai-go/internal/param"
 	"io"
 )
 

@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/openai/openai-go"
-	"github.com/openai/openai-go/internal/apijson"
+	"github.com/OptimusePrime/openai-go/internal/apijson"
 )
 
 func TestJSONRoute(t *testing.T) {

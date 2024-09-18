@@ -31,7 +31,7 @@ import (
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore"
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore/policy"
 	"github.com/Azure/azure-sdk-for-go/sdk/azcore/runtime"
-	"github.com/openai/openai-go/internal/requestconfig"
+	"github.com/OptimusePrime/openai-go/internal/requestconfig"
 	"github.com/openai/openai-go/option"
 )
 

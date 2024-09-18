@@ -9,11 +9,11 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/openai/openai-go/internal/apijson"
-	"github.com/openai/openai-go/internal/apiquery"
-	"github.com/openai/openai-go/internal/pagination"
-	"github.com/openai/openai-go/internal/param"
-	"github.com/openai/openai-go/internal/requestconfig"
+	"github.com/OptimusePrime/openai-go/internal/apijson"
+	"github.com/OptimusePrime/openai-go/internal/apiquery"
+	"github.com/OptimusePrime/openai-go/internal/pagination"
+	"github.com/OptimusePrime/openai-go/internal/param"
+	"github.com/OptimusePrime/openai-go/internal/requestconfig"
 	"github.com/openai/openai-go/option"
 )
 

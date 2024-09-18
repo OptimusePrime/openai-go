@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"reflect"
 
-	"github.com/openai/openai-go/internal/apijson"
-	"github.com/openai/openai-go/internal/requestconfig"
+	"github.com/OptimusePrime/openai-go/internal/apijson"
+	"github.com/OptimusePrime/openai-go/internal/requestconfig"
 	"github.com/openai/openai-go/option"
 )
 

@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/openai/openai-go/internal/requestconfig"
+	"github.com/OptimusePrime/openai-go/internal/requestconfig"
 	"github.com/tidwall/sjson"
 )
 
